@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77111442362",
+    "project_id": "custommap-1eef6",
+    "storage_bucket": "custommap-1eef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77111442362:android:d7d8375e86afffecd8fb83",
+        "android_client_info": {
+          "package_name": "com.tadam.custommap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AarIKvuR1Tb3ltK1HKSRMa82vpOac_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
